@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\c#devTest\\Lista_2_comMenu\\Lista_2_comMenu.csproj": {}
+  },
+  "projects": {
+    "G:\\c#devTest\\Lista_2_comMenu\\Lista_2_comMenu.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\c#devTest\\Lista_2_comMenu\\Lista_2_comMenu.csproj",
+        "projectName": "Lista_2_comMenu",
+        "projectPath": "G:\\c#devTest\\Lista_2_comMenu\\Lista_2_comMenu.csproj",
+        "packagesPath": "C:\\Users\\PositivoUser\\.nuget\\packages\\",
+        "outputPath": "G:\\c#devTest\\Lista_2_comMenu\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PositivoUser\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
