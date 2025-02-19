@@ -12,3 +12,4 @@ G:\c#devTest\Lista_2_comMenu\obj\Debug\net9.0\refint\Lista_2_comMenu.dll
 G:\c#devTest\Lista_2_comMenu\obj\Debug\net9.0\Lista_2_comMenu.pdb
 G:\c#devTest\Lista_2_comMenu\obj\Debug\net9.0\Lista_2_comMenu.genruntimeconfig.cache
 G:\c#devTest\Lista_2_comMenu\obj\Debug\net9.0\ref\Lista_2_comMenu.dll
+G:\c#devTest\Lista_2_comMenu\obj\Debug\net9.0\Lista_2_comMenu.sourcelink.json
