@@ -496,9 +496,10 @@ namespace Lista_2_com_menu
 
 
 					case 17:
-					Console.WriteLine("Você escolheu a atividade 17:\nEscreva um programa em C# para exibir o padrão como triângulo de ângulo reto usando um asterisco.O padrão como:\n*\n**\n***\n****");
+					Console.WriteLine("Você escolheu a atividade 17:\nEscreva um programa em C# para exibir o padrão como triângulo de ângulo reto usando um asterisco.");
 
 						Console.WriteLine("");
+						Console.ReadLine();
 						/*for (int v = 1; v <= 5; v++)
 						{
 							for (int j = 1; j <= v; j++)
@@ -550,7 +551,7 @@ namespace Lista_2_com_menu
 						break;
 
 					case 19:
-						Console.WriteLine("Você selecionou a atividade 19\nEscreva um programa em C# para exibir a tabuada de multiplicação verticalmente de 1 a n.");
+						Console.WriteLine("Você escolheu a atividade 19:\nEscreva um programa em C# para exibir a tabuada de multiplicação verticalmente de 1 a n.");
 
 						Console.WriteLine("Atividade 19");
 
@@ -580,7 +581,7 @@ namespace Lista_2_com_menu
 
 
 					case 20:
-						Console.WriteLine("Você");
+						Console.WriteLine("Você escolheu a atividade 20:\nEscreva um programa C# para encontrar a soma do primeiro e do último dígito de qualquer número.");
 						Console.Write("Digite um número inteiro: ");
 						int numero = int.Parse(Console.ReadLine());
 
